@@ -50,6 +50,10 @@
          "url": "https://raw.githubusercontent.com/mr1410koko/KOKO-VPN-S/main/TH-DTAC-GAME-VIP-12.ovpn"
       },
       {
+         "name": "TH-TRUE-GAME-VIP-13",
+         "url": "https://raw.githubusercontent.com/mr1410koko/KOKO-VPN-S/main/TH-DTAC-GAME-VIP-13.ovpn"
+      },
+      {
          "name": "TH-DTAC-GAME-VIP-01",
          "url": "https://raw.githubusercontent.com/mr1410koko/KOKO-VPN-S/main/TH-DTAC-GAME-VIP-01.ovpn"
       },
@@ -96,11 +100,15 @@
       {
          "name": "TH-DTAC-GAME-VIP-12",
          "url": "https://raw.githubusercontent.com/mr1410koko/KOKO-VPN-S/main/TH-DTAC-GAME-VIP-12.ovpn"
+      },
+{
+         "name": "TH-DTAC-GAME-VIP-13",
+         "url": "https://raw.githubusercontent.com/mr1410koko/KOKO-VPN-S/main/TH-DTAC-GAME-VIP-13.ovpn"
       }
       
 
 ],
-"message":"🚀 Config version - 3 \n📆 Latest update - 26/02/2023\n \n📌ဖိုင်အပ်ဒိတ်လုပ်ပေးပါ \n•လိုင်းပိုကောင်းအောင်\n•ကျွန်တော်တိုဖိုင်အသစ်အကုန်ပြန်လုပ်ပေးပါတယ် \n•Adminဆက်သွယ်ရန်👤👇\n🫰🫰🫰🫰🫰  \n \nThank you for support us💙",
+"message":"🚀 Config version - 4 \n📆 Latest update - 26/02/2023\n \n📌ဖိုင်အပ်ဒိတ်လုပ်ပေးပါ \n•လိုင်းပိုကောင်းအောင်\n•ကျွန်တော်တိုဖိုင်အသစ်အကုန်ပြန်လုပ်ပေးပါတယ် \n•Adminဆက်သွယ်ရန်👤👇\n🫰🫰🫰🫰🫰  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 3
+   "version": 4
 }
